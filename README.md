@@ -9,3 +9,4 @@ This github page contains codes to reproduce bioinformatics analysis in Song et 
 **spatial_data_process.R**: This is the pre-processing code for SlideSeq-V2 data from Biermann et al. 2022 presented in Figure 5A, B. 
 **analyze_ZNF180_tumor_spatial_transcriptome.R**: Using the pre-processed data from "spatial_data_process.R", this reproduces Figure 5A, B in the main text.
 
+Make sure R function codes under /scripts/R_functions are available to call necessary functions. 
